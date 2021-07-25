@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.86516032.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.289a40c9.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.289a40c9.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.e2f9aa8b.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.e2f9aa8b.js.map",
+    "static/js/2.d2acd08f.chunk.js": "/shopping-cart/static/js/2.d2acd08f.chunk.js",
+    "static/js/2.d2acd08f.chunk.js.map": "/shopping-cart/static/js/2.d2acd08f.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.86516032.chunk.css.map": "/shopping-cart/static/css/main.86516032.chunk.css.map",
+    "static/js/2.d2acd08f.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.d2acd08f.chunk.js.LICENSE.txt",
+    "static/media/antarctica.jpg": "/shopping-cart/static/media/antarctica.26264cb6.jpg",
+    "static/media/banff-national-park-canada.jpg": "/shopping-cart/static/media/banff-national-park-canada.e695a5c2.jpg",
+    "static/media/bottle.e888b867.svg": "/shopping-cart/static/media/bottle.e888b867.svg",
+    "static/media/finland.jpg": "/shopping-cart/static/media/finland.70f4ee01.jpg",
+    "static/media/fiordland-national-park-new-zealand.jpg": "/shopping-cart/static/media/fiordland-national-park-new-zealand.79c5dabd.jpg",
+    "static/media/logo.da8b06d1.svg": "/shopping-cart/static/media/logo.da8b06d1.svg",
+    "static/media/new-caledonia.jpg": "/shopping-cart/static/media/new-caledonia.e4e42bec.jpg",
+    "static/media/new-york.jpg": "/shopping-cart/static/media/new-york.16a904a6.jpg",
+    "static/media/puerto-rico.jpg": "/shopping-cart/static/media/puerto-rico.a47e6c34.jpg",
+    "static/media/seychelles.jpg": "/shopping-cart/static/media/seychelles.a9a9b565.jpg",
+    "static/media/sossusvlei-namibia.jpg": "/shopping-cart/static/media/sossusvlei-namibia.70a14497.jpg",
+    "static/media/sweden.jpg": "/shopping-cart/static/media/sweden.11cd4843.jpg",
+    "static/media/taiga.jpg": "/shopping-cart/static/media/taiga.ffc880f7.jpg",
+    "static/media/virgin-islands-usa.jpg": "/shopping-cart/static/media/virgin-islands-usa.45bcddc1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f9aa8b.js",
+    "static/js/2.d2acd08f.chunk.js",
+    "static/css/main.86516032.chunk.css",
+    "static/js/main.289a40c9.chunk.js"
+  ]
+}
