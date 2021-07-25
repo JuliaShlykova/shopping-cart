@@ -1,0 +1,97 @@
+#navbar {
+  background-color: var(--main-color);
+  color: white;
+  position: fixed;
+  width: 100vw;
+  height: 60px;
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+  z-index: 1;
+}
+#navbar-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+#navbar-list>*{
+  padding: 0 40px;
+  display: flex;
+  align-items: center;
+  transition: text-shadow 200ms ease;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  background-color: var(--main-color);
+}
+
+#navbar-list>*:hover {
+  cursor: pointer;
+  text-shadow: 0 0 2px white;
+}
+
+#cart {
+  margin-left: auto;
+}
+
+#cart-li {
+  text-align: center;
+}
+
+/* Cart component style */
+
+#cart-div {
+  opacity: 0;
+  height: 0;
+  background-color: white;
+  color:var(--main-color);
+  width: 0;
+  position: fixed;
+  top:0;
+  right:0;
+  transition: width 300ms, opacity 400ms, height 300ms;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+#cart:hover #cart-div {
+  height: 100vh;
+  width: 500px;
+  opacity: 1;
+}
+
+#cart:hover #cart-li{
+  display: none;
+}
+
+#cart-list {
+  line-height: 2rem;
+  font-size: 1.2rem;
+}
+
+#cart-btn-clear {
+  border-radius: 10px;
+}
+
+#total-amount {
+  text-decoration: underline;
+}
+
+#cart-btn-buy {
+  height: auto;
+  min-width: 50px;
+  font-size: 2rem;
+  padding: 0.5rem;
+  border: 10px double white;
+  border-radius: 15px;
+  float: right;
+}
+
+#cart-btn-buy:hover {
+  box-shadow: 0 0 10px var(--main-color);
+}
