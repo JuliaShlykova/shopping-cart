@@ -23,7 +23,7 @@ function Home() {
       </svg>
 
       </div>
-      <p>Wlcome to our shop. Feel free to choose what you like! <Link to="/shopping-cart/shop" id="link-home-shop">Choose your air now!</Link></p>
+      <p>Welcome to our shop. Feel free to choose what you like! <Link to="/shopping-cart/shop" id="link-home-shop">Choose your air now!</Link></p>
       
     </div>
   );
